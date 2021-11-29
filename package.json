@@ -134,7 +134,7 @@
 		"@storybook/addon-actions": "^6.2.0",
 		"@storybook/addon-storyshots": "^6.2.0",
 		"@storybook/addon-storyshots-puppeteer": "^6.2.0",
-		"@storybook/addons": "^6.2.0",
+		"@storybook/addons": "^6.4.0",
 		"@storybook/csf": "^0.0.1",
 		"@storybook/react": "^6.2.0",
 		"@wojtekmaj/enzyme-adapter-react-17": "^0.6.1",
